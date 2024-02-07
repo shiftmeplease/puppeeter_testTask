@@ -1,0 +1,4 @@
+price=75.99
+rating=4.8
+reviewCount=96
+activityStatus=available

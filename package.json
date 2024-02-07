@@ -1,0 +1,14 @@
+{
+  "name": "puppeeter_testtask",
+  "version": "1.0.0",
+  "description": "A test task for Backend Node.js at Cenix.pro",
+  "main": "index.js",
+  "scripts": {
+    "cli-test": "node index.js https://www.vprok.ru/product/makfa-makfa-izd-mak-spirali-450g--306739 \"Тульская обл.\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
